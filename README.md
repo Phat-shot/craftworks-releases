@@ -8,7 +8,7 @@ Quellcode: [github.com/Phat-shot/craftworks](https://github.com/Phat-shot/craftw
 > Diese Seite wird automatisch bei jedem Release (Merge auf `main`) aktualisiert.
 
 <!-- AUTO-GENERATED:START -->
-**Version:** 1.4 · **Commit:** `66f1e97` · **Stand:** 2026-07-21 12:38 UTC
+**Version:** 1.4 · **Commit:** `7a7c412` · **Stand:** 2026-07-23 09:11 UTC
 <!-- AUTO-GENERATED:END -->
 
 ## Download
